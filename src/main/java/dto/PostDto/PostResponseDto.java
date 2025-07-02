@@ -1,7 +1,6 @@
-package dto;
+package dto.PostDto;
 
 import domain.Post;
-import jakarta.persistence.GeneratedValue;
 import lombok.*;
 
 @Getter

@@ -1,4 +1,4 @@
-package dto;
+package dto.PostDto;
 
 import domain.Post;
 import lombok.*;
